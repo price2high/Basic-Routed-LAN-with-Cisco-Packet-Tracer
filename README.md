@@ -54,3 +54,27 @@ Design and configure a small office network using Cisco Packet Tracer. The netwo
 | PC3 | 192.168.2.11 | 255.255.255.0 | 192.168.2.1     |
 
 ---
+### 🧪 Testing and Verification:
+ * ping from PC0 to PC1 — ✅ success
+
+ * ping from PC0 to PC2 — ✅ success (via router)
+
+ * ping from PC0 to Switch0 — ✅ success
+
+ * ping from PC2 to 192.168.2.1 (router G0/1) — ✅ success
+
+ * show ip interface brief on router confirms both interfaces are up/up
+
+ * Switch ports show connected with show interfaces status
+
+---
+### ✅ Results:
+ * PCs in different subnets can communicate via router.
+
+ * Console and VTY access are secured on all network devices.
+
+ * Interfaces are properly configured and up.
+
+ * VLAN interfaces on switches respond to ping for management.
+
+---
