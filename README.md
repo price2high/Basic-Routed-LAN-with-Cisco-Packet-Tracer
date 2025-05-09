@@ -1,5 +1,4 @@
-# Routed-LAN-with-Cisco-Packet-Tracer
-# 🧾 Technical Documentation: Basic Routed LAN with Cisco Packet Tracer
+# 🧾 Technical Documentation: Routed LAN with Cisco Packet Tracer
 
 ### 📌 Project Title:
 **Small Office Network with Two Subnets and Secured Access**
