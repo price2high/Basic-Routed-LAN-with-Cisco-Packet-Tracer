@@ -1,4 +1,4 @@
-# Basic-Routed-LAN-with-Cisco-Packet-Tracer
+# Routed-LAN-with-Cisco-Packet-Tracer
 # 🧾 Technical Documentation: Basic Routed LAN with Cisco Packet Tracer
 
 ### 📌 Project Title:
